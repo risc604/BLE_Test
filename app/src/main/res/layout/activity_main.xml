@@ -18,9 +18,9 @@
         android:scrollbarStyle="outsideInset"
         tools:scrollbarAlwaysDrawVerticalTrack="true"
         android:scrollbars="vertical"
-        android:maxLines="20"
+        android:maxLines="22"
         android:scrollbarDefaultDelayBeforeFade="22"
-        android:scrollbarFadeDuration="20"
+        android:scrollbarFadeDuration="22"
         android:verticalScrollbarPosition="right"
         android:visibility="visible"
         android:textSize="18sp" />
